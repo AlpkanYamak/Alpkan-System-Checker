@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpkan-System-Checker", "Alpkan-System-Checker.csproj", "{8C2656F0-7B8B-16B8-665C-11212E3DED8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2656F0-7B8B-16B8-665C-11212E3DED8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2656F0-7B8B-16B8-665C-11212E3DED8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2656F0-7B8B-16B8-665C-11212E3DED8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2656F0-7B8B-16B8-665C-11212E3DED8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43084E5B-F8C0-45BF-8D61-C79DEC151A72}
+	EndGlobalSection
+EndGlobal
